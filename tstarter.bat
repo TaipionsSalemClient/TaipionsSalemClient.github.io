@@ -1,1 +1,1 @@
-start javaw -Dhaven.resurl="http://game.salemthegame.com/res/" -Dhaven.defserv="game.salemthegame.com" -Xms2048m -Xmx2048m -jar %~dp0\tsalem.jar -P
+start javaw -jar tsalem.jar -U http://game.salemthegame.com/res/ game.salemthegame.com 
