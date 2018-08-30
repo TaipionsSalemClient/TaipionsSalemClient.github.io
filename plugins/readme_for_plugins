@@ -1,0 +1,19 @@
+Create a \plugins\ folder in your \Salem\ folder, like:
+C:\Users\[yourUserName]\Salem\plugins\
+Then place plugins files into that folder, restart client, done.
+
+You can find installed plugins int the "x"tended menu
+
+Following is an explanation of plugins, which will be updated once new plugins are added.
+
+ClickAll Plugin:
+my most simple and most useful plugin
+take any item into your hand (cursor), and activate the plugin, it will then
+- drop item from hand to inventory
+- proceed to rightclick every item of that type in your inventory
+- can be interrupted by activating the plugin again (click icon or hotkey)
+Depending on your settings in the options of latikais/my client, you can do many things with this, such as
+- study
+- split
+- slice
+- ...
