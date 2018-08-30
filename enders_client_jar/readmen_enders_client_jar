@@ -1,0 +1,7 @@
+This file is an updated enders client based on his latest version, with the addition of cravings! :-)
+
+Simply replace your salem.jar with this one in your \Salem\ folder under:
+C:\Users\[yourUserName]\Salem\bin\
+
+Then make it read-only to prevent enders updater from overwriting it.
+(windows: right-click -> properties -> read only -> ok)
