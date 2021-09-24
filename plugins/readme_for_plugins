@@ -17,3 +17,25 @@ Depending on your settings in the options of latikais/my client, you can do many
 - split
 - slice
 - ...
+
+AutoMessage Plugin:
+- see description in the plugin for usage
+- settings are saved in a file "textmap.json" in your salem folder (users/username/salem/), deleting that file will restore the default messages/explanations in case you deleted them
+- when active, can send messages automatically to anyone starting a conversation with you
+- only sends messages to chat channels that do not contain a response from you yet, therefore the message(s) will be sent only once, unless you close the chat
+- as you can see, this one lacks a proper icon, IF you like this plugin, feel free to make an icon for it ^^
+
+stall seller:
+my changes to that one were taken over by kandarim, so the public version in his plugins thread is basically the one I modified
+therefore it is not included here
+
+player alert plugin:
+can also be found in the plugins thread, and well, you know this one already I guess
+
+BarnHandler Plugin:
+- can count animals
+- can hide all animals but the ones you want to display, this is controlled by holding silver in your hand when activating, silver stacks do not drop when you KO or return to your homestead when your location is blocked when logging in
+- hold no silver in hand and activate: display only diseased animals
+- 1s: baby animals
+- 2s: female
+- 3s: male
